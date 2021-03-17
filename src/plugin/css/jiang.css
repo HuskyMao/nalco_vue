@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  ul,ol {
+    list-style: none;
+  }
+  .flex {
+    display: flex;
+  }
+  .j-c {
+    justify-content: center;
+  }
+  .j-s {
+    justify-content: space-between;
+  }
+  .a-c {
+    align-items: center;
+  }
+  .f-d {
+    flex-direction: column;
+  }
+  .f-w {
+    flex-wrap: wrap;
+  }
+  .c-p {
+      cursor: pointer;
+  }
+  .mainpage{
+    height: 100vh ;
+  }
+
